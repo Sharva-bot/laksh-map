@@ -1,0 +1,3191 @@
+{
+  "delhiCoverage": {
+    "updatedOn": "2026-10-09",
+    "status": "incomplete",
+    "period": {
+      "closedFinancialYear": "2025–26",
+      "currentFinancialYear": "2026–27",
+      "cutoff": "2026-10-09"
+    },
+    "authorityInventoryComplete": false,
+    "knownAuthorities": 38,
+    "knownUnits": 1,
+    "completeUnits": 0,
+    "completePaymentCards": 0,
+    "authorities": [
+      {
+        "id": "pwd",
+        "name": "Public Works Department",
+        "level": "GNCTD",
+        "rosterStatus": "partial",
+        "expectedUnits": null,
+        "nextAction": "Start with SER-2 while establishing all current PWD divisions and accounting custodians. Public monitoring descriptions do not establish a complete work or payment register.",
+        "sourceUrl": "https://www.pwddelhi.gov.in/office-user-directory",
+        "units": [
+          {
+            "id": "pwd-ser2",
+            "name": "South East Road Division 2 (SER-2)",
+            "workRegister": "missing",
+            "paymentRegister": "missing",
+            "reconciliation": "pending",
+            "geography": "missing",
+            "publication": "pending",
+            "nextAction": "Exact-ID Tender Status search found the diagnostic at Financial Evaluation; award search returned no matching rows and tender-detail access was denied. Reconcile this with eMonitoring using the requested original award/agreement, sanction, allocated bills/payments and exact bridge site. Complete registers and pre-November 2025 custody/opening balances remain requested."
+          }
+        ]
+      },
+      {
+        "id": "mcd",
+        "name": "Municipal Corporation of Delhi",
+        "level": "Municipal",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Twelve administrative zones are observed, but they are not a verified engineering/accounts unit denominator. Obtain the full unit roster, zone/division work registers and allocated-payment records, retaining historical corporation/ward identifiers.",
+        "sourceUrl": "https://mcdonline.nic.in/portal/zones",
+        "units": []
+      },
+      {
+        "id": "ndmc",
+        "name": "New Delhi Municipal Council",
+        "level": "Municipal",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Assess the official Vendor Payment Detail route when accessible, obtain its work/bill allocation fields and complete unit/register scope. A linked payment page or login screen is not acquired payment data.",
+        "sourceUrl": "https://www.ndmc.gov.in/",
+        "units": []
+      },
+      {
+        "id": "djb",
+        "name": "Delhi Jal Board",
+        "level": "GNCTD board",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Trace Chandrawal budget heads to the actual allotment, implementing package, bill allocation and recipient payments. Keep Union/Delhi provisions and government transfers distinct from vendor payments.",
+        "sourceUrl": "https://delhijalboard.delhi.gov.in/hi/node/1751",
+        "units": []
+      },
+      {
+        "id": "ifc",
+        "name": "Irrigation and Flood Control Department",
+        "level": "GNCTD",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://ifc.delhi.gov.in/ifc/organizational-setup",
+        "units": []
+      },
+      {
+        "id": "dusib",
+        "name": "Delhi Urban Shelter Improvement Board",
+        "level": "GNCTD board",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://delhishelterboard.in/main/",
+        "units": []
+      },
+      {
+        "id": "dda",
+        "name": "Delhi Development Authority",
+        "level": "Central authority",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://dda.gov.in/departments",
+        "units": []
+      },
+      {
+        "id": "cpwd",
+        "name": "Central Public Works Department",
+        "level": "Central",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://www.cpwd.gov.in/publication/SUOMOTODISCLOSURE.pdf",
+        "units": []
+      },
+      {
+        "id": "dmrc",
+        "name": "Delhi Metro Rail Corporation",
+        "level": "Joint government",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://delhimetrorail.com/pages/about-us/tenders_by_category/6uww",
+        "units": []
+      },
+      {
+        "id": "ncrtc",
+        "name": "National Capital Region Transport Corporation",
+        "level": "Joint government",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Review preserved vendor-payment reports and the Jangpura award candidate. Obtain the official bill-to-agreement allocation, amount definitions, deductions/returns, sanction and exact Delhi site before publication.",
+        "sourceUrl": "https://ncrtc.in/vendor/",
+        "units": []
+      },
+      {
+        "id": "northern-railway",
+        "name": "Northern Railway Delhi Division and construction units",
+        "level": "Central",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://nr.indianrailways.gov.in/view_section.jsp?backgroundColor=LIGHTSTEELBLUE&fontColor=black&id=0%2C4%2C644&lang=0",
+        "units": []
+      },
+      {
+        "id": "nhai",
+        "name": "National Highways Authority of India",
+        "level": "Central authority",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://nhai.gov.in/nhai/taxonomy/term/19",
+        "units": []
+      },
+      {
+        "id": "delhi-cantonment",
+        "name": "Delhi Cantonment Board",
+        "level": "Cantonment",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://dgde.gov.in/en/autonomous-bodies-institutions-under-directorate-general-defence-estates/",
+        "units": []
+      },
+      {
+        "id": "dsiidc",
+        "name": "Delhi State Industrial and Infrastructure Development Corporation",
+        "level": "GNCTD company",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://dsiidc.delhi.gov.in/",
+        "units": []
+      },
+      {
+        "id": "transport",
+        "name": "Transport Department",
+        "level": "GNCTD",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://transport.delhi.gov.in/transport/whos-who",
+        "units": []
+      },
+      {
+        "id": "dtc",
+        "name": "Delhi Transport Corporation",
+        "level": "GNCTD corporation",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://transport.delhi.gov.in/transport/transport-archive-data",
+        "units": []
+      },
+      {
+        "id": "dtidc",
+        "name": "Delhi Transport Infrastructure Development Corporation",
+        "level": "GNCTD company",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://dtidc.co.in/FileUpload/getUpload/section4ofrti_417.pdf",
+        "units": []
+      },
+      {
+        "id": "development",
+        "name": "Development Department and rural works",
+        "level": "GNCTD",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://development.delhi.gov.in/",
+        "units": []
+      },
+      {
+        "id": "revenue",
+        "name": "Revenue Department and district offices",
+        "level": "GNCTD",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Thirteen district entries are observed in the current directory; district geography is not a payment-register denominator. Identify actual funding/executing offices and registers without placing projects at district centres.",
+        "sourceUrl": "https://revenue.delhi.gov.in/revenue/list-villages",
+        "units": []
+      },
+      {
+        "id": "dttdc",
+        "name": "Delhi Tourism and Transportation Development Corporation",
+        "level": "GNCTD company",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://delhitourism.gov.in/dttdc/tender.html",
+        "units": []
+      },
+      {
+        "id": "damb",
+        "name": "Delhi Agricultural Marketing Board and market committees",
+        "level": "GNCTD board",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndTendersByOrganisation&service=page",
+        "units": []
+      },
+      {
+        "id": "dpgs",
+        "name": "Delhi Parks and Gardens Society",
+        "level": "GNCTD society",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://dpgs.delhi.gov.in/",
+        "units": []
+      },
+      {
+        "id": "forests",
+        "name": "Department of Forests and Wildlife",
+        "level": "GNCTD",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://forest.delhi.gov.in/",
+        "units": []
+      },
+      {
+        "id": "environment",
+        "name": "Department of Environment",
+        "level": "GNCTD",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://environment.delhi.gov.in/",
+        "units": []
+      },
+      {
+        "id": "ndmc-smart-city",
+        "name": "NDMC Smart City Limited",
+        "level": "Municipal company",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://smartcity.ndmc.gov.in/",
+        "units": []
+      },
+      {
+        "id": "dtl",
+        "name": "Delhi Transco Limited",
+        "level": "GNCTD company · scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.dtl.gov.in/Content/202_6_StateUTGencoTranscoDiscom.aspx",
+        "units": []
+      },
+      {
+        "id": "ipgcl",
+        "name": "Indraprastha Power Generation Company Limited",
+        "level": "GNCTD company · scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.ipgcl-ppcl.gov.in/publicnoticeDocs.htm",
+        "units": []
+      },
+      {
+        "id": "ppcl",
+        "name": "Pragati Power Corporation Limited",
+        "level": "GNCTD company · scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.ipgcl-ppcl.gov.in/publicnoticeDocs.htm",
+        "units": []
+      },
+      {
+        "id": "powergrid",
+        "name": "Power Grid Corporation of India and Delhi project SPVs",
+        "level": "Central company · Delhi allocation required",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.powergrid.in/en/transmission",
+        "units": []
+      },
+      {
+        "id": "tpddl",
+        "name": "Tata Power Delhi Distribution Limited",
+        "level": "Regulated utility · public-spending scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.derc.gov.in/distribution-licensees",
+        "units": []
+      },
+      {
+        "id": "brpl",
+        "name": "BSES Rajdhani Power Limited",
+        "level": "Regulated utility · public-spending scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.derc.gov.in/distribution-licensees",
+        "units": []
+      },
+      {
+        "id": "bypl",
+        "name": "BSES Yamuna Power Limited",
+        "level": "Regulated utility · public-spending scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.derc.gov.in/distribution-licensees",
+        "units": []
+      },
+      {
+        "id": "igl",
+        "name": "Indraprastha Gas Limited",
+        "level": "Utility company · public-spending scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.iglonline.net/tenderList",
+        "units": []
+      },
+      {
+        "id": "gail",
+        "name": "GAIL India Limited",
+        "level": "Central company · Delhi allocation required",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.gailonline.com/VendorZone/VendorZoneNew.html",
+        "units": []
+      },
+      {
+        "id": "aai",
+        "name": "Airports Authority of India",
+        "level": "Central authority · Delhi allocation required",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://aai.aero/en/corporate/status-of-tenders-contracts",
+        "units": []
+      },
+      {
+        "id": "dial",
+        "name": "Delhi International Airport Limited",
+        "level": "Concession operator · public-spending scope to confirm",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://aera.gov.in/uploads/mytp/17383230869949.pdf",
+        "units": []
+      },
+      {
+        "id": "nbcc",
+        "name": "NBCC India Limited and client-funded Delhi projects",
+        "level": "Central company · client allocation required",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Confirm the Delhi public-development spending scope and official government-funded/client allocation. Obtain relevant units and project/bill registers; exclude unrelated commercial expenditure and whole-company or regional totals.",
+        "sourceUrl": "https://www.nbccindia.in/",
+        "units": []
+      },
+      {
+        "id": "asi-delhi",
+        "name": "Archaeological Survey of India Delhi Circle",
+        "level": "Central",
+        "rosterStatus": "pending",
+        "expectedUnits": null,
+        "nextAction": "Establish the engineering/accounts unit roster and obtain the complete in-scope work and bill/payment registers, official identifiers, control totals and location records. Distinguish funding and executing roles to avoid counting a project twice.",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=Home&service=direct&sp=SwQxl9kNBvRiUJqX6a5wNFg%3D%3D",
+        "units": []
+      }
+    ]
+  },
+  "nationalCoverage": {
+    "states": [
+      {
+        "name": "Andaman And Nicobar Islands",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 10
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Andhra Pradesh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1898
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 496
+        }
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 364
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Assam",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 2734
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 401
+        }
+      },
+      {
+        "name": "Bihar",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3944
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 1422
+        }
+      },
+      {
+        "name": "Chandigarh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 137
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 59
+        }
+      },
+      {
+        "name": "Chhattisgarh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3154
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 565
+        }
+      },
+      {
+        "name": "Delhi",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 292
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 47
+        }
+      },
+      {
+        "name": "Goa",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 109
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 38
+        }
+      },
+      {
+        "name": "Gujarat",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3847
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 543
+        }
+      },
+      {
+        "name": "Haryana",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1611
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 269
+        }
+      },
+      {
+        "name": "Himachal Pradesh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1999
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 978
+        }
+      },
+      {
+        "name": "Jammu And Kashmir",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 557
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 195
+        }
+      },
+      {
+        "name": "Jharkhand",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3343
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 1454
+        }
+      },
+      {
+        "name": "Karnataka",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3315
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 1350
+        }
+      },
+      {
+        "name": "Kerala",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1582
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 693
+        }
+      },
+      {
+        "name": "Ladakh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 13
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Lakshadweep",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 23
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Madhya Pradesh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 7798
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 2014
+        }
+      },
+      {
+        "name": "Maharashtra",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1855
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 445
+        }
+      },
+      {
+        "name": "Manipur",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 143
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 19
+        }
+      },
+      {
+        "name": "Meghalaya",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 807
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Mizoram",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 323
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Nagaland",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 81
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 130
+        }
+      },
+      {
+        "name": "Odisha",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3826
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 557
+        }
+      },
+      {
+        "name": "Puducherry",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 29
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 95
+        }
+      },
+      {
+        "name": "Punjab",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 8860
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 3226
+        }
+      },
+      {
+        "name": "Rajasthan",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 6737
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 1857
+        }
+      },
+      {
+        "name": "Sikkim",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 83
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 187
+        }
+      },
+      {
+        "name": "Tamil Nadu",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3947
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 1077
+        }
+      },
+      {
+        "name": "Telangana",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 2769
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 478
+        }
+      },
+      {
+        "name": "The Dadra And Nagar Haveli And Daman And Diu",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 0
+        }
+      },
+      {
+        "name": "Tripura",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 54
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 39
+        }
+      },
+      {
+        "name": "Uttar Pradesh",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 18358
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 6896
+        }
+      },
+      {
+        "name": "Uttarakhand",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 1598
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 562
+        }
+      },
+      {
+        "name": "West Bengal",
+        "lokSabha": {
+          "status": "assessed",
+          "rows": 3296
+        },
+        "rajyaSabha": {
+          "status": "assessed",
+          "rows": 194
+        }
+      }
+    ],
+    "statesAssessed": 36,
+    "statePartitions": 36,
+    "sourceRows": 115783,
+    "scope": "MPLADS default Lok Sabha and Rajya Sabha expenditure reports only. Source rows are not unique payments or complete state spending.",
+    "gaps": [
+      "Stable payment references and recorded recipient roles",
+      "Gross/net definitions, deductions, reversals and project allocations",
+      "Actual project locations, agreements and available completion evidence",
+      "Source reuse review and explicit owner publication decisions"
+    ]
+  },
+  "jurisdictionCoverage": {
+    "asOf": "2026-10-15",
+    "scope": "28 states and 8 union territories",
+    "jurisdictionCount": 36,
+    "completeJurisdictions": 0,
+    "interpretation": "Counts from different schemes and source systems overlap and must not be added into one spending total. Presence means a source partition or candidate exists, not verified expenditure, settlement, complete geography, or republication rights.",
+    "sourceScopes": {
+      "stateBudget": "Two-year state-development extraction register; candidate rows only.",
+      "pmgsy": "Official public PMGSY road/tender dashboard partitions; row/candidate amounts do not establish paid amounts.",
+      "mplads": "Default Lok Sabha and Rajya Sabha expenditure report rows; one scheme, not all development expenditure or unique payments.",
+      "mord": "State/UT scheme aggregate rows for MGNREGS releases, water-related work expenditure and VB-G RAM-G interim allocation/mother sanction; not project-level payment records."
+    },
+    "procurementPortalDirectory": {
+      "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+      "mappedJurisdictions": 36,
+      "directlyListedJurisdictions": 35,
+      "supplementalOfficialRoutes": [
+        "Andaman and Nicobar Islands",
+        "Ladakh"
+      ],
+      "totalJurisdictions": 36,
+      "interpretation": "Official GePNIC/CPPP directory entries plus separately verified official routes for Andaman and Nicobar Islands and Ladakh. Portal presence does not prove completeness, accessible bulk export, award/payment coverage, or reuse rights."
+    },
+    "matrix": [
+      {
+        "jurisdiction": "Andhra Pradesh",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 9199,
+          "reportedExpenditureCandidates": 28,
+          "projectTenderCandidates": 32,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 6091,
+          "candidateWorks": 1512,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1898,
+          "rajyaSabha": 496,
+          "combinedSourceRows": 2394,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://www.eprocurement.gov.in/",
+              "platform": "shared_cppp",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Arunachal Pradesh",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 274,
+          "reportedExpenditureCandidates": 8,
+          "projectTenderCandidates": 22,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 1993,
+          "candidateWorks": 1013,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 364,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 364,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://arunachaltenders.gov.in/nicgep/app",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Assam",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 1569,
+          "reportedExpenditureCandidates": 55,
+          "projectTenderCandidates": 72,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 11562,
+          "candidateWorks": 5958,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 2734,
+          "rajyaSabha": 401,
+          "combinedSourceRows": 3135,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://assamtenders.gov.in/nicgep/app",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Bihar",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 403,
+          "reportedExpenditureCandidates": 32,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 20879,
+          "candidateWorks": 5627,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3944,
+          "rajyaSabha": 1422,
+          "combinedSourceRows": 5366,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://www.eproc.bihar.gov.in",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Chhattisgarh",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 520,
+          "reportedExpenditureCandidates": 26,
+          "projectTenderCandidates": 1,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 11160,
+          "candidateWorks": 4354,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3154,
+          "rajyaSabha": 565,
+          "combinedSourceRows": 3719,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://cgeprocurement.gov.in",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Goa",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 1585,
+          "reportedExpenditureCandidates": 0,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 82,
+          "candidateWorks": 12,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 109,
+          "rajyaSabha": 38,
+          "combinedSourceRows": 147,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://www.etender.goa.gov.in",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Gujarat",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 1235,
+          "reportedExpenditureCandidates": 7,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 5309,
+          "candidateWorks": 769,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3847,
+          "rajyaSabha": 543,
+          "combinedSourceRows": 4390,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://www.nprocure.com/asp/home/new_home_tenders.asp",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Haryana",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 5182,
+          "reportedExpenditureCandidates": 2,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 791,
+          "candidateWorks": 264,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1611,
+          "rajyaSabha": 269,
+          "combinedSourceRows": 1880,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://etenders.hry.nic.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            },
+            {
+              "url": "https://haryanaphed.etenders.in",
+              "platform": "department_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Himachal Pradesh",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 459,
+          "reportedExpenditureCandidates": 21,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 4316,
+          "candidateWorks": 1966,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1999,
+          "rajyaSabha": 978,
+          "combinedSourceRows": 2977,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://hptenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Jharkhand",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 345,
+          "reportedExpenditureCandidates": 16,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 9558,
+          "candidateWorks": 4569,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3343,
+          "rajyaSabha": 1454,
+          "combinedSourceRows": 4797,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://jharkhandtenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Karnataka",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 358,
+          "reportedExpenditureCandidates": 10,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 4618,
+          "candidateWorks": 980,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3315,
+          "rajyaSabha": 1350,
+          "combinedSourceRows": 4665,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://eproc.karnataka.gov.in",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Kerala",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 225,
+          "reportedExpenditureCandidates": 3,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 1808,
+          "candidateWorks": 471,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1582,
+          "rajyaSabha": 693,
+          "combinedSourceRows": 2275,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://etenders.kerala.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Madhya Pradesh",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 155,
+          "reportedExpenditureCandidates": 28,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 24115,
+          "candidateWorks": 6263,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 7798,
+          "rajyaSabha": 2014,
+          "combinedSourceRows": 9812,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://mptenders.gov.in/nicgep/app",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            },
+            {
+              "url": "https://mpeprocurement.com",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Maharashtra",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 653,
+          "reportedExpenditureCandidates": 15,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 8263,
+          "candidateWorks": 1648,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1855,
+          "rajyaSabha": 445,
+          "combinedSourceRows": 2300,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://mahatenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            },
+            {
+              "url": "https://maharashtra.etenders.in",
+              "platform": "department_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Manipur",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 439,
+          "reportedExpenditureCandidates": 31,
+          "projectTenderCandidates": 54,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 2261,
+          "candidateWorks": 718,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 143,
+          "rajyaSabha": 19,
+          "combinedSourceRows": 162,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://manipurtenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Meghalaya",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 791,
+          "reportedExpenditureCandidates": 8,
+          "projectTenderCandidates": 38,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 1473,
+          "candidateWorks": 753,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 807,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 807,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://meghalayatenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Mizoram",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 334,
+          "reportedExpenditureCandidates": 6,
+          "projectTenderCandidates": 21,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 374,
+          "candidateWorks": 157,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 323,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 323,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://mizoramtenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Nagaland",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 296,
+          "reportedExpenditureCandidates": 14,
+          "projectTenderCandidates": 25,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 551,
+          "candidateWorks": 246,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 81,
+          "rajyaSabha": 130,
+          "combinedSourceRows": 211,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://nagalandtenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Odisha",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 48,
+          "reportedExpenditureCandidates": 6,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 19504,
+          "candidateWorks": 7630,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3826,
+          "rajyaSabha": 557,
+          "combinedSourceRows": 4383,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://tendersodisha.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Punjab",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 338,
+          "reportedExpenditureCandidates": 8,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 1575,
+          "candidateWorks": 395,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 8860,
+          "rajyaSabha": 3226,
+          "combinedSourceRows": 12086,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "http://eprocpbpwd.gov.in",
+              "platform": "department_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            },
+            {
+              "url": "https://etender.punjabgovt.gov.in",
+              "platform": "state_platform",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Rajasthan",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 759,
+          "reportedExpenditureCandidates": 3,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 19444,
+          "candidateWorks": 4082,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 6737,
+          "rajyaSabha": 1857,
+          "combinedSourceRows": 8594,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://eproc.rajasthan.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Sikkim",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 90,
+          "reportedExpenditureCandidates": 39,
+          "projectTenderCandidates": 18,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 1264,
+          "candidateWorks": 493,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 83,
+          "rajyaSabha": 187,
+          "combinedSourceRows": 270,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "http://sikkimtender.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Tamil Nadu",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 61,
+          "reportedExpenditureCandidates": 12,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 10591,
+          "candidateWorks": 3897,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3947,
+          "rajyaSabha": 1077,
+          "combinedSourceRows": 5024,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://tntenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Telangana",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 163,
+          "reportedExpenditureCandidates": 28,
+          "projectTenderCandidates": 0,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 4095,
+          "candidateWorks": 1151,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 2769,
+          "rajyaSabha": 478,
+          "combinedSourceRows": 3247,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://www.eprocurement.gov.in/",
+              "platform": "shared_cppp",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Tripura",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 643,
+          "reportedExpenditureCandidates": 3,
+          "projectTenderCandidates": 34,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 1755,
+          "candidateWorks": 390,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 54,
+          "rajyaSabha": 39,
+          "combinedSourceRows": 93,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "http://tripuratenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Uttar Pradesh",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 356,
+          "reportedExpenditureCandidates": 32,
+          "projectTenderCandidates": 20,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 21307,
+          "candidateWorks": 3409,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 18358,
+          "rajyaSabha": 6896,
+          "combinedSourceRows": 25254,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://etender.up.nic.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Uttarakhand",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 39,
+          "reportedExpenditureCandidates": 8,
+          "projectTenderCandidates": 24,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 3184,
+          "candidateWorks": 2065,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1598,
+          "rajyaSabha": 562,
+          "combinedSourceRows": 2160,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://uktenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "West Bengal",
+        "type": "state",
+        "stateBudget": {
+          "status": "collected_partial",
+          "budgetCandidates": 446,
+          "reportedExpenditureCandidates": 16,
+          "projectTenderCandidates": 35,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 8314,
+          "candidateWorks": 3506,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 3296,
+          "rajyaSabha": 194,
+          "combinedSourceRows": 3490,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": null,
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://wbtenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Andaman and Nicobar Islands",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 133,
+          "candidateWorks": 120,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 10,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 10,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 52,
+          "fiscalRowCandidates": {
+            "2025-26": 115,
+            "2026-27": 103
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://eprocure.gov.in/epublish/app",
+              "platform": "cppp_epublishing",
+              "directoryStatus": "epublishing_only",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            },
+            {
+              "url": "https://eprocure.andamannicobar.gov.in/nicgep/app",
+              "platform": "nic_gepnic",
+              "directoryStatus": "supplemental_official_route",
+              "source": "https://eprocure.andamannicobar.gov.in/"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Chandigarh",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "not_in_source_partition",
+          "sourceRows": null,
+          "candidateWorks": null,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 137,
+          "rajyaSabha": 59,
+          "combinedSourceRows": 196,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": false,
+          "mgnregsWaterWorks": false,
+          "vbGramG": false
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 53,
+          "fiscalRowCandidates": {
+            "2025-26": 55,
+            "2026-27": 53
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://etenders.chd.nic.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "not_in_source_partition",
+          "sourceRows": null,
+          "candidateWorks": null,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 1,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 1,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 54,
+          "fiscalRowCandidates": {
+            "2025-26": 89,
+            "2026-27": 83
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://dnhtenders.gov.in/nicgep/app",
+              "platform": "nic_gepnic_dnh",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            },
+            {
+              "url": "https://ddtenders.gov.in/nicgep/app",
+              "platform": "nic_gepnic_dd",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Delhi",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "not_in_source_partition",
+          "sourceRows": null,
+          "candidateWorks": null,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 292,
+          "rajyaSabha": 47,
+          "combinedSourceRows": 339,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": false,
+          "mgnregsWaterWorks": false,
+          "vbGramG": false
+        },
+        "additionalBudgetDocuments": {
+          "status": "originals_preserved_private_not_classified",
+          "volumes": 20,
+          "pages": 547,
+          "searchablePages": 420,
+          "scannedPages": 127
+        },
+        "unionBudgetUtDemand": {
+          "demandNumber": 57,
+          "fiscalRowCandidates": {
+            "2025-26": 15,
+            "2026-27": 14
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://govtprocurement.delhi.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Jammu and Kashmir",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 4388,
+          "candidateWorks": 2492,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 557,
+          "rajyaSabha": 195,
+          "combinedSourceRows": 752,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 58,
+          "fiscalRowCandidates": {
+            "2025-26": 16,
+            "2026-27": 15
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://jktenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Ladakh",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 199,
+          "candidateWorks": 117,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 13,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 13,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 55,
+          "fiscalRowCandidates": {
+            "2025-26": 74,
+            "2026-27": 71
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://tenders.ladakh.gov.in/nicgep/app",
+              "platform": "nic_gepnic",
+              "directoryStatus": "supplemental_official_route",
+              "source": "https://tenders.ladakh.gov.in/"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Lakshadweep",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "not_in_source_partition",
+          "sourceRows": null,
+          "candidateWorks": null,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 23,
+          "rajyaSabha": 0,
+          "combinedSourceRows": 23,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 56,
+          "fiscalRowCandidates": {
+            "2025-26": 77,
+            "2026-27": 69
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://tendersutl.gov.in/nicgep/app",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      },
+      {
+        "jurisdiction": "Puducherry",
+        "type": "unionTerritory",
+        "stateBudget": {
+          "status": "not_in_28_state_budget_register",
+          "budgetCandidates": null,
+          "reportedExpenditureCandidates": null,
+          "projectTenderCandidates": null,
+          "complete": false
+        },
+        "pmgsy": {
+          "status": "original_preserved",
+          "sourceRows": 72,
+          "candidateWorks": 72,
+          "isPaymentEvidence": false
+        },
+        "mpladsDefaultExpenditureRows": {
+          "lokSabha": 29,
+          "rajyaSabha": 95,
+          "combinedSourceRows": 124,
+          "isUniquePaymentCount": false
+        },
+        "mordSchemeAggregates": {
+          "mgnregsReleases": true,
+          "mgnregsWaterWorks": true,
+          "vbGramG": true
+        },
+        "additionalBudgetDocuments": null,
+        "unionBudgetUtDemand": {
+          "demandNumber": 59,
+          "fiscalRowCandidates": {
+            "2025-26": 14,
+            "2026-27": 14
+          },
+          "status": "source_rows_present_classification_and_reconciliation_pending",
+          "scope": "Union Budget MHA/UT transfer demand rows; not a complete UT budget or development-only total."
+        },
+        "officialProcurementPortals": {
+          "status": "official_directory_route_identified",
+          "portals": [
+            {
+              "url": "https://pudutenders.gov.in",
+              "platform": "nic_gepnic",
+              "directoryStatus": "directory_entry",
+              "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf"
+            }
+          ],
+          "source": "https://eprocure.gov.in/mmp/sites/default/files/eproc/States_eProc_relatedlinks.pdf",
+          "paymentEvidence": false
+        },
+        "completeProjectPaymentCards": 0
+      }
+    ]
+  },
+  "updatedOn": "2026-10-15",
+  "lanes": [
+    {
+      "id": "public",
+      "title": "Official public reports"
+    },
+    {
+      "id": "department",
+      "title": "Department exports / APIs"
+    },
+    {
+      "id": "rti",
+      "title": "Targeted RTI requests"
+    },
+    {
+      "id": "partnership",
+      "title": "Local agency pilots"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "road-public",
+      "lane": "public",
+      "title": "Trace the ten Odisha roads",
+      "owner": "Hisaab",
+      "status": "In progress",
+      "blocker": "Eight sanction conflicts; contract units and bill allocations unresolved.",
+      "nextAction": "Inspect project-specific official reports and retain each edition.",
+      "followUpOn": null,
+      "supportingRecord": "OMMAS final-bill export; ten matched rows"
+    },
+    {
+      "id": "panchayat-public",
+      "lane": "public",
+      "title": "Select the best-evidenced panchayat",
+      "owner": "Hisaab + owner",
+      "status": "Five candidates assessed · Chandanbhati working pilot",
+      "blocker": "Two proposed cashbook/activity links need review; geotag accuracy, contracts, gross/net basis and reuse permission unresolved.",
+      "nextAction": "Obtain contractor/settlement evidence and verify the named site/route; keep PPMS road and eGramSwaraj drain/office projects separate.",
+      "followUpOn": null,
+      "supportingRecord": "5 panchayats assessed; 1 project has matching bill, cheque and beneficiary totals. 2 clipped beneficiary documents; 2 recipient-sum discrepancies. Zero approved payments."
+    },
+    {
+      "id": "nrida-export",
+      "lane": "department",
+      "title": "NRIDA project-to-payment export",
+      "owner": "NRIDA / Hisaab",
+      "status": "Forwarded · data response pending",
+      "blocker": "NRIDA forwarded the request on 7 October 2026; no export, field definitions or reuse permission supplied.",
+      "nextAction": "Assess the custodian response for bill-to-road allocations and field definitions; retain the planned follow-up date.",
+      "followUpOn": "2026-10-16",
+      "supportingRecord": "Incoming forwarding message preserved privately; routing is not data acceptance or payment coverage"
+    },
+    {
+      "id": "egram-export",
+      "lane": "department",
+      "title": "eGramSwaraj activity-to-voucher export",
+      "owner": "eGramSwaraj / Hisaab",
+      "status": "Sent · response pending",
+      "blocker": "No substantive response; reuse permission unresolved.",
+      "nextAction": "Confirm approved-activity API scope, supported collection limits, units, current payment/voucher service and reuse terms; provide the two pilot activity candidates.",
+      "followUpOn": "2026-10-16",
+      "supportingRecord": "NIC v3.0 documentation and successful four-module pilot responses; sent request still awaiting reply"
+    },
+    {
+      "id": "roads-rti",
+      "lane": "rti",
+      "title": "Existing records for ten named roads",
+      "owner": "Hisaab drafts · owner submits",
+      "status": "Draft prepared",
+      "blocker": "Verify current PIO and applicant details before filing.",
+      "nextAction": "Review draft, identify record custodian and submit through the appropriate official route.",
+      "followUpOn": "2026-10-27",
+      "supportingRecord": "Ten-road RTI draft"
+    },
+    {
+      "id": "panchayat-rti",
+      "lane": "rti",
+      "title": "Project-specific panchayat request",
+      "owner": "Hisaab drafts · owner submits",
+      "status": "Named records and public authority identified",
+      "blocker": "Proposed activity links need approval; applicant details and current office contact must be confirmed before filing.",
+      "nextAction": "Use the named CR/activity and PPMS bill annexes; address the PIO of Panchayat Samiti Office, Balangir. Owner handles applicant details, filing and fees; no submission made.",
+      "followUpOn": null,
+      "supportingRecord": "Panchayat request draft updated with cashbook references"
+    },
+    {
+      "id": "road-partner",
+      "lane": "partnership",
+      "title": "Odisha implementing-unit pilot",
+      "owner": "Hisaab + owner",
+      "status": "Proposal prepared",
+      "blocker": "Current named custodian/contact verification needed.",
+      "nextAction": "Verify official unit contacts and seek authorization for targeted outreach.",
+      "followUpOn": null,
+      "supportingRecord": "Agency pilot proposal"
+    },
+    {
+      "id": "panchayat-partner",
+      "lane": "partnership",
+      "title": "Panchayat accounting and engineering pilot",
+      "owner": "Hisaab + owner",
+      "status": "Sent · custodian response pending",
+      "blocker": "No official sample, allocation/geography confirmation or publication terms yet.",
+      "nextAction": "Assess the office response and record custody; follow up after seven working days, checking office holidays.",
+      "followUpOn": "2026-10-19",
+      "supportingRecord": "Specifically authorized office request; Gmail sent-message receipt preserved privately. Sending is not data acceptance."
+    },
+    {
+      "id": "ppms-public",
+      "lane": "public",
+      "title": "Odisha project-linked treasury bills",
+      "owner": "Hisaab",
+      "status": "155 project joins · five cheque records",
+      "blocker": "Payment dates, recipients, gross/net definitions, report cutoff, exact project geography and reuse basis unresolved.",
+      "nextAction": "Review five private project dossiers inside Spending; obtain payment dates, confirmed recipients, amount definitions and reuse terms. Compare panchayat evidence before choosing the pilot.",
+      "followUpOn": null,
+      "supportingRecord": "Balangir block: 158 bill records with project codes across 25 panchayats. 477 rows collected from the filtered geotag project report; 155 of 156 bill projects joined by exact code. Five different panchayats have reported photo locations and linked cheque records, pending review. Two cheque amounts differ from bill report totals and require allocation reconciliation. Cheque dates are not settlement dates. Two failed bills retained separately. Zero approved payments."
+    },
+    {
+      "id": "ppms-export",
+      "lane": "department",
+      "title": "Odisha PPMS payment records sample",
+      "owner": "PPMS / Hisaab",
+      "status": "Sent · response pending",
+      "blocker": "Payment date, recipient, amount definitions and reuse terms awaited.",
+      "nextAction": "Assess the five-project sample response; request the correct custodian if support does not hold payment registers.",
+      "followUpOn": "2026-10-16",
+      "supportingRecord": "Explicitly authorized five-project request sent 7 October 2026"
+    },
+    {
+      "id": "ppms-state-public",
+      "lane": "public",
+      "title": "Expand Odisha treasury collection",
+      "owner": "Hisaab",
+      "status": "43265 bill records · 30 districts",
+      "blocker": "7 differing-edition comparisons retained and quarantined. Observed pagination collected; source editions are not a fixed-time census. Payment references, financial definitions, geography and reuse review pending.",
+      "nextAction": "Review supporting payment documents and obtain custodian definitions, allocated payment references and actual project geography.",
+      "followUpOn": null,
+      "supportingRecord": "856 report pages; 42260 project codes; 0 report pages awaiting retry. This overlaps the Balangir pilot; counts must not be added. Nationwide coverage remains unfinished. Later visible footer: Showing 29201 to 29250 of 42869 projects. Archived page positions have moved; this observation is not a refreshed collection or common reporting cutoff."
+    },
+    {
+      "id": "ppms-location-expansion",
+      "lane": "public",
+      "title": "Connect actual project photo-location evidence to bills",
+      "owner": "Hisaab / owner geography review",
+      "status": "155 project dossiers · 795 photo coordinates",
+      "blocker": "Source photo coordinates are not independently verified sites; contracts, allocation definitions and settlement remain pending.",
+      "nextAction": "Inspect Road and panchayat locations in Spending with owner MFA; review source sites, stages and dates. Obtain the missing contract, amount definitions and final-recipient payment records.",
+      "followUpOn": null,
+      "supportingRecord": "Exact project codes checked across project, bill and geotag pages. 0 observed links pending; 0 failures. Zero verified map locations or payment approvals."
+    },
+    {
+      "id": "ppms-expanded-bill-dossiers",
+      "lane": "public",
+      "title": "Review bill documents alongside project photo locations",
+      "owner": "Hisaab / owner evidence review",
+      "status": "145 documents · 143 projects",
+      "blocker": "5 documents lack cheque dates; 34 original PDF layouts are clipped (see separate dialog-recovery progress); 8 readable beneficiary discrepancies remain. Units, recipient roles, settlement and publication basis unresolved.",
+      "nextAction": "Inspect the linked bill/cheque and source recipient evidence in the owner location review. Resolve component allocations and missing transaction records through the prepared custodian requests.",
+      "followUpOn": null,
+      "supportingRecord": "103 documents match report, cheque and beneficiary arithmetic; this is not verified settlement. 2 failed bill rows retained separately. No permitted observed document downloads pending in this pilot scope; no payments approved."
+    },
+    {
+      "id": "ppms-pilot-gap-register",
+      "lane": "public",
+      "title": "Resolve named pilot evidence gaps",
+      "owner": "Hisaab / source custodians",
+      "status": "155 project checklists · 0 clipped recoveries pending",
+      "blocker": "Missing original cheque fields, unexposed bill documents, recipient-sum discrepancies and Failed bills remain separate categories.",
+      "nextAction": "Use the owner expanded evidence dossier for named bill references; obtain existing transaction, allocation, agreement and site records without substituting other dates.",
+      "followUpOn": null,
+      "supportingRecord": "Per-project private gap register prepared. Categories overlap; counts are not added as independent projects. Actual sites, contracts, amount definitions, final-recipient roles and reuse review remain common gaps."
+    },
+    {
+      "id": "pilot-treasury-history",
+      "lane": "public",
+      "title": "Trace pilot bill processing dates",
+      "owner": "Hisaab",
+      "status": "Four official workflow events collected",
+      "blocker": "Treasury processing is not independent recipient settlement; amount definitions, recipient roles, site accuracy and reuse review remain pending.",
+      "nextAction": "Compare the 24 February cheque/initiation and 26 February treasury processing events with dated component-level settlement records from the custodian.",
+      "followUpOn": null,
+      "supportingRecord": "Exact PPMS project and bill history preserved privately and displayed inside owner review cards; no payment approval inferred."
+    },
+    {
+      "id": "delhi-pilot-feasibility",
+      "lane": "public",
+      "title": "Whole Delhi authority and division coverage",
+      "owner": "Hisaab / engineering and accounts custodians",
+      "status": "Exact SER-2 tender found · records unresolved",
+      "blocker": "Procurement reports Financial Evaluation while eMonitoring reports an award. Original tender-detail access was denied; authority/unit census, complete registers, allocations, locations and reuse review remain missing.",
+      "nextAction": "Reconcile the two portals using the requested original award/agreement and allocated bills/payments; obtain the exact bridge site and complete SER-2 registers for the fixed periods. Review the separate NCRTC payment-report candidate without assuming its agreement allocation.",
+      "followUpOn": null,
+      "supportingRecord": "Owner-approved CAPTCHA searches submitted 9 October: award results returned no matching rows; Tender Status found exact ID 2026_PWD_296167_1 at Financial Evaluation. AOC was not displayed. Private observations and screenshot hashes retained; no payments or locations approved."
+    },
+    {
+      "id": "delhi-ser2-register-request",
+      "lane": "department",
+      "title": "SER-2 complete work and payment registers",
+      "owner": "Delhi PWD SER-2 / Hisaab",
+      "status": "Authorized and sent · response pending",
+      "blocker": "No records, register control totals, bill allocations or reuse terms supplied yet.",
+      "nextAction": "Assess the diagnostic and register response; confirm PAO-XVI transition, predecessor custody and current DDO identifiers. A reply alone does not establish complete division coverage.",
+      "followUpOn": "2026-10-20",
+      "supportingRecord": "Owner specifically authorized the ordinary SER-2 enquiry on 9 October. PAO and RTI drafts remain unsent/unfiled. Follow-up date counts weekdays; verify office holidays before use."
+    },
+    {
+      "id": "delhi-rti-records",
+      "lane": "rti",
+      "title": "Delhi precise engineering and accounts records",
+      "owner": "Hisaab drafts · owner submits",
+      "status": "Record lists drafted · PIO verification pending",
+      "blocker": "Current designated SER-2/PAO PIO, applicant information and filing route remain unverified.",
+      "nextAction": "Verify current jurisdiction before adapting the prepared division and PAO-XVI record requests into formal applications. Owner supplies applicant information and handles fees/submission.",
+      "followUpOn": null,
+      "supportingRecord": "Named project and two-year register scopes, opening liabilities, payment/return records, locations and custody-transition records specified. No filing or fee paid."
+    },
+    {
+      "id": "delhi-agency-pilot",
+      "lane": "partnership",
+      "title": "Delhi division and accounting sample pilot",
+      "owner": "SER-2 / PAO-XVI / Hisaab",
+      "status": "Engineering enquiry sent · accounts route identified",
+      "blocker": "A named accounts/export custodian, authorized sample, definitions, refresh and publication terms remain pending.",
+      "nextAction": "Seek the existing engineering/accounting crosswalk and a minimized diagnostic bill/payment sample, then reconcile before expanding divisions. Keep bank-credit evidence separate from payment instructions.",
+      "followUpOn": null,
+      "supportingRecord": "Current SER-2 institutional directory contact verified. The March 2026 PrAO circular places PWD under PAO-XVI since November 2025; earlier custody is still unknown."
+    },
+    {
+      "id": "delhi-ncrtc-register-request",
+      "lane": "department",
+      "title": "NCRTC exact bill links and complete Delhi registers",
+      "owner": "NCRTC Finance/Accounts / Hisaab",
+      "status": "Authorized and sent · response pending",
+      "blocker": "General institutional inbox is verified, but the specific Finance bill custodian, actual record crosswalk, definitions and full register scope remain unresolved.",
+      "nextAction": "Assess the two separate diagnostic bill chains and requested full-period registers, control totals, Delhi allocations, completion and reuse terms. Routing or acknowledgement alone does not establish payment coverage.",
+      "followUpOn": "2026-10-20",
+      "supportingRecord": "Owner specifically authorized the ordinary institutional request on 9 October; confirmed sent. Historical May 2024 ring-road bill and January 2026 complex bill are not merged. No formal RTI filing or automatic follow-up."
+    },
+    {
+      "id": "delhi-ncrtc-public-payments",
+      "lane": "public",
+      "title": "NCRTC Delhi vendor-payment evidence",
+      "owner": "Hisaab / NCRTC finance custodian",
+      "status": "Three official originals preserved · contract join candidate",
+      "blocker": "No identifier-proven invoice-to-agreement allocation, transmitted-amount definition, deductions/returns, sanction or exact site geometry. Reported paid date is not independently verified recipient credit.",
+      "nextAction": "Review the private source fields and award candidate in the owner dossier. Reconstruct the January–April 2026 report only after proving page/row alignment; obtain the exact contract/payment crosswalk and Delhi component allocation.",
+      "followUpOn": null,
+      "supportingRecord": "Two official vendor MIS reports and one award original, all checksum verified. The exact inspected 2024 invoice is historical and outside the initial two-year register scope; a January 2026 complex-work lead is distinct. Mixed-region and inter-agency flows remain separate. Zero approvals or public payment totals."
+    },
+    {
+      "id": "department-export-reconciliation",
+      "lane": "department",
+      "title": "Reconcile export editions before payment review",
+      "owner": "Hisaab / owner reviewer",
+      "status": "Implemented · official exports pending",
+      "blocker": "No official allocated-payment export received; cross-export reconciliation does not establish settlement, recipient roles, geography or reuse.",
+      "nextAction": "Stage a documented custodian sample, rebuild the private catalogue, and load Spending owner export review through MFA. Resolve conflicting editions and overlapping shares with documentary evidence.",
+      "followUpOn": null,
+      "supportingRecord": "Checksummed originals, exact identities, duplicate exclusion, edition conflicts, split limits and owner-only projection. No automatic approval or payment total."
+    },
+    {
+      "id": "department-export-staging",
+      "lane": "department",
+      "title": "Validate the first official project-payment export sample",
+      "owner": "Hisaab / source custodian",
+      "status": "Private staging validator implemented · official sample pending",
+      "blocker": "No official project-allocation sample imported yet. Source authenticity, field meanings, recipient capacity, settlement, location and reuse still need reviewed evidence.",
+      "nextAction": "Map an authorized small export to the prepared tables using documented field meanings. Preserve original hashes, validate exact project/payment/component IDs and splits, and retain conflicts before owner review.",
+      "followUpOn": null,
+      "supportingRecord": "Repeat import, exact units, split limits, conflicting identities and source-date roles tested in isolated fixtures. Fixtures do not count as acquired data. No automatic approval, bank fields, public totals or guessed settlement."
+    },
+    {
+      "id": "ppms-source-guidance",
+      "lane": "department",
+      "title": "Obtain existing PPMS case-record bundles from the custodian",
+      "owner": "Hisaab / authorized source custodian",
+      "status": "3 official guides assessed · document route identified",
+      "blocker": "The documented Project All Document workflow requires an authorized departmental user. Public expenditure definitions, rounding, actual recipient capacity and settlement remain unresolved.",
+      "nextAction": "Use the prepared named-project request annex and RTI draft to obtain sanction, work-order, measurement, component bill and payment/return records from their custodian. Confirm current guidance and reuse terms.",
+      "followUpOn": null,
+      "supportingRecord": "Guide originals and hashes preserved privately. Departmental executants may be staff; individual project roles still need evidence. The illustrative bill is not a payment record. No login access, export permission or publication approval inferred."
+    },
+    {
+      "id": "ppms-visible-breakdowns",
+      "lane": "public",
+      "title": "Recover clipped pilot bill breakdowns",
+      "owner": "Hisaab",
+      "status": "42 official dialogs preserved · pilot component recovery complete",
+      "blocker": "8 visible component totals differ from reported bill amounts; source precision and cheque/component scope need custodian clarification. Recipient roles, settlement and reuse remain unverified.",
+      "nextAction": "Review the distinct bill and cheque records inside the owner project cards; obtain component-level dates and official cheque scope before publication.",
+      "followUpOn": null,
+      "supportingRecord": "Safe visible recipient/component/amount/status fields preserved separately from original PDFs. Recovery completes component reading only; it does not resolve missing transaction dates, recipient capacity or settlement. No bank or IFSC fields exposed; zero payment approvals."
+    },
+    {
+      "id": "ppms-state-payments",
+      "lane": "public",
+      "title": "Inspect bill-linked cheque documents",
+      "owner": "Hisaab",
+      "status": "1546 documents assessed",
+      "blocker": "516 clipped amount columns; 420 cheque/report differences; 130 beneficiary-sum discrepancies. Settlement/role/unit and reuse review pending.",
+      "nextAction": "Continue bounded downloads from observed links. Preserve source payment identities, check shared allocations and retain originals when parsing fails.",
+      "followUpOn": null,
+      "supportingRecord": "1546 originals preserved; 0 parsing failures; 0 shared identities detected in this subset. Not verified nationwide payments; do not add totals from overlapping collections."
+    },
+    {
+      "id": "wb-water-financial",
+      "lane": "public",
+      "title": "West Bengal water scheme financial records",
+      "owner": "Hisaab",
+      "status": "9337 scheme rows · 22 district reports",
+      "blocker": "Cumulative expenditure only; dated transactions, payees, bill allocations, exact geography and reuse unresolved.",
+      "nextAction": "Follow observed district reports; obtain scheme/work-order-to-bill exports. Financial PFMS page failed and agency bill page timed out during research.",
+      "followUpOn": null,
+      "supportingRecord": "22 district links observed. Explicit lakh units and TSM/SM identifiers preserved privately; zero individual payments approved."
+    },
+    {
+      "id": "nationwide-payment-research",
+      "lane": "department",
+      "title": "Find nationwide project-to-payment export routes",
+      "owner": "Hisaab / source research",
+      "status": "Seven blocker solution routes documented · 9 October research",
+      "blocker": "No verified universal public payment feed. Custodian samples, actual work crosswalks, financial definitions, site review and publication terms remain required; documentation is not data access.",
+      "nextAction": "Obtain a named-project sample: eGramSwaraj activity/voucher/geotag mapping; Odisha claim deconsolidation and IFMIS deduction/response records; applicable TSA/Hybrid claim reports. Validate one exact physical-work/payment allocation before wider state partitions.",
+      "followUpOn": null,
+      "supportingRecord": "Detailed solutions and primary sources added to Nationwide payment source research inside Owner request dossier. Ten checksummed official manuals/notices preserved privately. September 2026 agency-project identifiers are optional; JJM 2.0 provides a scheme/asset/claim export target, not an open API. Rajasthan WAM, Chhattisgarh e-Kosh and Kerala bill-system leads require authorized samples. Zero new payment approvals, messages or published projects."
+    },
+    {
+      "id": "bbmp-payment-validation",
+      "lane": "public",
+      "title": "Validate Bengaluru work-bill payments",
+      "owner": "Hisaab",
+      "status": "4729 source rows · two historical bills compared",
+      "blocker": "Official displayed Paid differs from full net bill value in both samples; repeated RTGS event amounts, units, geography and publication remain unresolved.",
+      "nextAction": "Obtain event-level paid amounts, reissue/instalment history and actual works locations; do not sum mirror nett values.",
+      "followUpOn": null,
+      "supportingRecord": "3964 recognizable job codes; 4729 arithmetic matches; 14 repeated bill IDs. Private normalization separates bills from RTGS events; zero payment approvals."
+    },
+    {
+      "id": "mgnrega-chain-validation",
+      "lane": "public",
+      "title": "Reproduce a work-linked wage-payment chain",
+      "owner": "Hisaab",
+      "status": "Amarpur pilot work → three musters → wage list observed",
+      "blocker": "Register reports 30,618 rupees paid, but consolidated date is Data Entry Date. Bank-response/FTO, actual geography and full source-original reproduction pending.",
+      "nextAction": "Trace wage list 1728001019WL007148 through official FTO reports; preserve report scope and bank response without worker identifiers in public views.",
+      "followUpOn": null,
+      "supportingRecord": "MP / Bhopal / Berasia / Amarpur plantation work; 126 person-days. Minimized UI observation retained; direct register fetch did not reproduce the displayed work. No settlement approval."
+    },
+    {
+      "id": "mplads-payment-validation",
+      "lane": "public",
+      "title": "Validate MPLADS work-to-vendor payments",
+      "owner": "Hisaab",
+      "status": "3826 Odisha expenditure rows · 2195 work IDs",
+      "blocker": "Source transaction IDs, reversals, exact locations and publication review missing; seven rows have encoding faults. Source Payment Success is not independent settlement.",
+      "nextAction": "Inspect work documents using full WORK_ID; obtain payment references and geometry, then collect bounded official state/tenure partitions.",
+      "followUpOn": null,
+      "supportingRecord": "Official public dashboard script report request reproduced. 3,719 source Payment Success rows and 107 In-Progress rows; no totals summed or payments approved. Country-wide response exceeded size bound."
+    },
+    {
+      "id": "mplads-records-request",
+      "lane": "department",
+      "title": "MPLADS payment definitions and five-project records",
+      "owner": "MPLADS support / Hisaab",
+      "status": "Sent · response pending",
+      "blocker": "Payment references, recipient roles, deductions allocations, actual project locations and reuse conditions awaited.",
+      "nextAction": "Assess the support response or routing to district/implementing-agency custodians; seek a supported sample export before wider ingestion.",
+      "followUpOn": "2026-10-16",
+      "supportingRecord": "Explicitly authorized five-project request sent 7 October 2026 to the verified eSAKSHI support contact. Sent-message reference retained privately; delivery and data completeness not yet confirmed."
+    },
+    {
+      "id": "mplads-state-collection",
+      "lane": "public",
+      "title": "MPLADS expenditure across states and union territories",
+      "owner": "Hisaab",
+      "status": "36 of 36 state reports · 89497 source expenditure rows",
+      "blocker": "0 failed partitions. This covers one scheme and default Lok Sabha filters; transaction identities, settlement, geography and publication review remain pending.",
+      "nextAction": "Both default house state scopes are collected. Review sample work documents, payment references, reversals and actual locations; assess additional tenure filters only after pilot validation.",
+      "followUpOn": null,
+      "supportingRecord": "Checkpointed, size-bounded official state report requests; 194 rows with encoding faults retained for review. Zero approved payments; no source row count is a count of independently verified transactions."
+    },
+    {
+      "id": "mplads-rajya-state-collection",
+      "lane": "public",
+      "title": "Extend MPLADS to Rajya Sabha reports",
+      "owner": "Hisaab",
+      "status": "36 of 36 state reports · 26286 source expenditure rows",
+      "blocker": "0 failed partitions. Default Rajya Sabha filter only; payment references, reversals, geography, document review and reuse remain pending.",
+      "nextAction": "All default house state partitions collected. Browse source rows in the owner catalogue; obtain payment references, reversals, documents and actual geography.",
+      "followUpOn": null,
+      "supportingRecord": "16020 distinct full work IDs in this subset. Official house-switch script identifies house 1; every returned row checked for state and house. Separate from the Lok Sabha inventory; no combined payment totals or approvals."
+    },
+    {
+      "id": "nhidcl-project-fact-review",
+      "lane": "public",
+      "title": "Review source-backed road contract cards",
+      "owner": "Hisaab · owner evidence review",
+      "status": "232 project candidates compared to the original · 10 states and 3 UTs · 184 prioritised for contract-fact review",
+      "blocker": "These are contract and project-status facts, not payment or location verification. The source reproduction policy is documented; document-level rights and explicit owner publication decisions remain required.",
+      "nextAction": "In State-by-state development collection, choose Project card drafts. The stronger source-matched contract records appear first. Review the official source row, contract facts, attribution, exact geography and available bill allocations; preserve missing payments and completion certificates.",
+      "followUpOn": null,
+      "supportingRecord": "docs/nhidcl-project-facts-review.md. The original PDF checksum and freshly extracted table match. Cost units, UPN identities and dates were compared exactly. A comparison notice is attached only while the card facts and original edition match; all publication approvals remain false."
+    },
+    {
+      "id": "eight-ut-project-card-review",
+      "lane": "public",
+      "title": "Eight union territories: project cards and evidence gaps",
+      "owner": "Hisaab · owner evidence review",
+      "status": "8 UTs separately indexed · 182 project/tender records · 16 mixed Union-demand context entries · zero complete territories",
+      "blocker": "Procurement samples and mixed Union transfer/territory demands are not a complete local development ledger. Actual payment recipients, allocations, dates, exact project geography and public source-rights review remain incomplete.",
+      "nextAction": "Use Union-territory development collection inside Evidence progress; select each UT and inspect Project card drafts, Original sources or Union budget context. Preserve existing Delhi and Puducherry work; follow the specific source gaps in docs/union-territory-development-status.md.",
+      "followUpOn": null,
+      "supportingRecord": "Recovered 21 in-scope NHIDCL rows for Andaman and Nicobar, Jammu and Kashmir and Ladakh that the old 28-state adapter excluded. All eight official procurement routes checked. No payment, geographic match or publication approval inferred."
+    },
+    {
+      "id": "mplads-owner-catalogue",
+      "lane": "public",
+      "title": "Inspect nationwide MPLADS source records inside the app",
+      "owner": "Hisaab · owner evidence review",
+      "status": "75805 project identities · 115783 source rows",
+      "blocker": "Unpublished source catalogue. Transaction references, exact location, gross/net allocation and review remain missing; catalogue size is not verified payment coverage.",
+      "nextAction": "Open Nationwide MPLADS records inside Spending with owner MFA; search by project, state or house and inspect source rows. Use the five pilot receipts for supporting-document review.",
+      "followUpOn": null,
+      "supportingRecord": "72 original house/state report checksums verified. Scoped project identities are indexed separately by house. Repeated source rows retained; no financial totals, invented transaction IDs or approvals."
+    },
+    {
+      "id": "mplads-supporting-review",
+      "lane": "public",
+      "title": "Check bills and completion documents against MPLADS payments",
+      "owner": "Hisaab · owner publication review",
+      "status": "5 projects · 8 expenditure rows · 7 official attachments",
+      "blocker": "Two bills show gross amounts matching portal disbursement but smaller net payable amounts; three certificate dates differ from portal dates. Bank settlement, final-recipient roles, contracts and geography remain unverified.",
+      "nextAction": "Obtain payment/voucher references, deductions allocation and recipient-role definitions for the five named projects; retain certificate completion and portal dates separately.",
+      "followUpOn": null,
+      "supportingRecord": "2 bills and 4 certificates visually inspected. Scoped recommendation/MP/state/constituency joins checked; full payment work IDs differ from internal attachment work IDs. Five draft receipts and checksum-checked documents are available in Spending → MPLADS pilot receipts (owner MFA). Request and findings are in the owner dossier; zero approvals."
+    },
+    {
+      "id": "national-jurisdiction-coverage",
+      "lane": "public",
+      "title": "Coverage across 28 states and 8 union territories",
+      "owner": "Hisaab",
+      "status": "36-jurisdiction ledger built · official tender-discovery portal mapped for all 36 · 16 UT budget-context rows and 877 raw MHA/UT demand lines indexed privately · 21 Puducherry monthly account PDFs · 27 CAG state account snapshots · 214 CAG account row candidates indexed in 27 reports · evidence remains partial",
+      "blocker": "No complete state/UT coverage or payment-backed card. PMGSY national response has no partition for Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Delhi, Lakshadweep. Tender portals establish procurement routes, not award completeness or paid transactions. UT budget rows, raw demand lines and voucher entries are unreviewed; they do not establish project settlements.",
+      "nextAction": "Continue classifying state and UT budgets and collecting listed official account reports with source hashes. Match voucher/account records to named contracts and works only through official identifiers or allocation statements. Prioritize one reviewed tender→award→bill allocation→settlement chain per jurisdiction; leave missing records unknown and never publish aggregate account vouchers as asset payments.",
+      "followUpOn": null,
+      "supportingRecord": "docs/national-jurisdiction-coverage.md and private data/acquisition/national-coverage/jurisdiction-matrix.json. MPLADS default reports: 36/36 jurisdictions; PMGSY: 32 partitions; official GePNIC/CPPP directory directly lists 35 mapped jurisdictions (including A&N ePublishing only); separately verified A&N eProcurement and Ladakh portals complete the discovery routes for all 36. MoRD rural-work aggregates: 28 states + 6 UTs. Sixteen Union Budget MHA/UT FY2025–26/2026–27 context totals and 877 raw lines across MHA/UT Demands 52–59 are indexed privately with locators, not classified or published. Delhi demand originals: 20 volumes, 547 pages preserved privately; 420 pages have embedded text, D-7 is scanned and English-OCR indexed. Puducherry BE/AFS and monthly expenditure sources, Ladakh LIFMS, J&K BEAMS, and Lakshadweep PAO are documented. Puducherry FY2026–27 monthly accounts: 21 PDFs, 9,199 pages, 74,933 voucher candidates; not settlement proof or project links. CAG FY2026–27 state-account snapshots: 27 of 28 state PDFs preserved; 214 broad account row candidates indexed in 27 reports, still private and unreviewed, not development-only or project payment data. No project/payment card is completed by these counts."
+    },
+    {
+      "id": "goa-monthly-expenditure",
+      "lane": "rti",
+      "title": "Request Goa’s monthly scheme-wise expenditure returns",
+      "owner": "Owner files · Hisaab prepared draft",
+      "status": "Draft ready · not filed",
+      "blocker": "The official order requires department returns to DPSE, but no current public monthly return was verified. Owner applicant details and filing step are required.",
+      "nextAction": "Confirm the current DPSE PIO in the Goa RTI portal, then file the prepared records-only request for FY2025–26 and FY2026–27 through the latest completed month. Ask for existing compiled returns, definitions, submission log and source identifiers; do not pay or submit automatically.",
+      "followUpOn": null,
+      "supportingRecord": "docs/goa-monthly-expenditure-rti-draft.md; official reporting order and DPSE PIO listing are linked in the draft."
+    }
+  ],
+  "projects": [
+    {
+      "id": "247148",
+      "title": "MRL04-Chandanbhati to Bolangir Kagon Mirdhapali ,tulandi, Chhatamakhana",
+      "packageId": "OR05364",
+      "district": "Balangir - ( DPIU Of Bolangir )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "247994",
+      "title": "MRL29-Majhisahi to Chunida (Block Boundary) via G.Nuapada,Dakinbad,Kuligadia,Jagulisahi",
+      "packageId": "OR04335",
+      "district": "Bhadrak - ( DPIU Of Bhadrak - II )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "247572",
+      "title": "MRL30-Talapada to Kanti via Manibaj",
+      "packageId": "OR04342",
+      "district": "Bhadrak - ( DPIU Of Bhadrak - II )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Collected · review pending",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "247518",
+      "title": "MRL13-SH-37-Golapoda to Sadara",
+      "packageId": "OR11471",
+      "district": "Ganjam - ( DPIU Of Bhanjanagar )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "247748",
+      "title": "MRL14-R C Canal to Madhapur via Luchapada Belapada Bikaspur Buragam",
+      "packageId": "OR11521",
+      "district": "Ganjam - ( DPIU Of Ganjam-II )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "247799",
+      "title": "MRL18-Sapuapali to Block border via Darubhadra, Drubandha, Dayapali.",
+      "packageId": "OR11532",
+      "district": "Ganjam - ( DPIU Of Ganjam-II )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "238765",
+      "title": "MRL22-Samasingha to Kusumdihi12",
+      "packageId": "OR1470",
+      "district": "Jharsuguda - ( DPIU Of Jharsuguda )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "247177",
+      "title": "MRL62-Tikilimatha to Blabhdrapur via Shymasundarpur, Murdarpur",
+      "packageId": "OR16319",
+      "district": "Kendrapara - ( DPIU Of Kendrapara )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Collected · review pending",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "248555",
+      "title": "MRL33-NH-57 Bhimpada to Block boundary via. Kalanga, Hatisahi, Gobardhanpur",
+      "packageId": "OR18215",
+      "district": "Khurda - ( DPIU Of Khurda )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    },
+    {
+      "id": "239757",
+      "title": "T01-Bonai Kantajodi chack to Mahuldiha (Via -Jakeikela, Badposh ,Jangla ,Ruguda)",
+      "packageId": "OR30710",
+      "district": "Sundargarh - ( DPIU of Bonai )",
+      "checks": {
+        "location": "Proposed · review pending",
+        "sanction": "Conflicting editions",
+        "contract": "Identifier collected · unit unverified",
+        "payments": "Project allocation missing",
+        "recipient": "Missing",
+        "completion": "Reported date · certificate missing"
+      },
+      "nextAction": "Resolve source conflicts and obtain bill-to-road allocations."
+    }
+  ],
+  "milestones": [
+    {
+      "id": "M1",
+      "name": "In-app evidence tracker",
+      "status": "Implemented"
+    },
+    {
+      "id": "M2",
+      "name": "Pilot dossiers and requests",
+      "status": "Ten road dossiers, five panchayat candidates and exact requests prepared; source gaps remain"
+    },
+    {
+      "id": "M3",
+      "name": "First verified payment-backed dot",
+      "status": "Blocked · allocation evidence needed"
+    },
+    {
+      "id": "M4",
+      "name": "Ten complete pilot cards",
+      "status": "Pending"
+    },
+    {
+      "id": "M5",
+      "name": "Repeatable verified collection",
+      "status": "Public parsers and private export staging repeatable; official allocated-payment sample pending"
+    },
+    {
+      "id": "M6",
+      "name": "Wider roads and panchayat coverage",
+      "status": "Pending"
+    },
+    {
+      "id": "M7",
+      "name": "Other sectors and public launch",
+      "status": "Pending"
+    }
+  ],
+  "notes": [
+    "Tracker update date is not a common reporting cutoff for all source records.",
+    "Follow-up dates count Monday–Friday only; check office holidays before sending.",
+    "Public-source collection continues. Outbound requests and RTI filing remain subject to separate authorization and applicant steps.",
+    "One panchayat sample assessed: Chandanbhati. Two local work references found; exact geography and official activity mapping remain unverified."
+  ]
+}

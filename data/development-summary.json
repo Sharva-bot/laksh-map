@@ -1,0 +1,34 @@
+{
+  "version": "hisaab-development-import/1",
+  "generatedOn": "2026-11-15",
+  "source": "data/raw/mgnrega/og-gov-data.json",
+  "sourceDataset": "GeoMGNREGA works, Bhuvan/NRSC (GODL-India)",
+  "count": 102351,
+  "rejected": 0,
+  "duplicates": 0,
+  "withAmounts": 0,
+  "withPhotos": 102350,
+  "byCategory": {
+    "road": 39149,
+    "water": 13400,
+    "sanitation": 3361,
+    "housing": 2328,
+    "education": 499,
+    "health": 8,
+    "agriculture": 21713,
+    "community": 3450,
+    "other": 18443
+  },
+  "byIssue": {
+    "pothole_repair": 0,
+    "road_repair": 194
+  },
+  "byState": {
+    "Meghalaya": 102351
+  },
+  "notes": [
+    "Categories and road-condition flags are text classifications of official work titles.",
+    "Missing amounts are not zero; they remain unpublished.",
+    "A photo link is source evidence, not independent physical verification."
+  ]
+}

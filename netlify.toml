@@ -1,0 +1,19 @@
+[build]
+command = "npm run build:hosted"
+publish = ".next"
+ignore = "node scripts/netlify-build-ignore.mjs"
+
+[[plugins]]
+package = "@netlify/plugin-nextjs"
+[build.environment]
+NODE_VERSION = "24"
+[functions]
+directory = "netlify/functions"
+[[headers]]
+for = "/api/v1/reports*"
+[headers.values]
+Cache-Control = "private, no-store"
+[[headers]]
+for = "/geography/*"
+[headers.values]
+Cache-Control = "public, max-age=86400"

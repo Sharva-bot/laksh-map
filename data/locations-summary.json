@@ -1,0 +1,80 @@
+{
+  "version": "hisaab-location-density/1",
+  "updatedOn": "2026-11-14",
+  "count": 899664,
+  "byKind": {
+    "public": 425618,
+    "road": 38088,
+    "education": 173951,
+    "health": 92867,
+    "agriculture": 169140
+  },
+  "byState": {
+    "Meghalaya": 105312,
+    "Uttar Pradesh": 101539,
+    "Maharashtra": 68357,
+    "Karnataka": 61042,
+    "Madhya Pradesh": 57306,
+    "West Bengal": 42623,
+    "Andhra Pradesh": 42474,
+    "Rajasthan": 41005,
+    "Gujarat": 38633,
+    "Telangana": 34931,
+    "Odisha": 32424,
+    "Kerala": 31871,
+    "Assam": 31154,
+    "Bihar": 30446,
+    "Punjab": 28319,
+    "Tamilnadu": 28299,
+    "Uttarakhand": 25534,
+    "Chhattisgarh": 24424,
+    "Haryana": 16441,
+    "Jharkhand": 15392,
+    "Jammu And Kashmir": 13080,
+    "Himachal Pradesh": 10431,
+    "Manipur": 4815,
+    "Tripura": 4360,
+    "Arunachal Pradesh": 2989,
+    "Nagaland": 2352,
+    "Mizoram": 1511,
+    "Sikkim": 1020,
+    "Ladakh": 1003,
+    "Pondicherry": 577
+  },
+  "rejectedRows": 21,
+  "sourceKey": "b6655b5800458e07573abf472898f7ecbf1b89f491b2876b536b074f86bc862e",
+  "levels": [
+    {
+      "cells": 512,
+      "features": 706,
+      "bytes": 125364,
+      "gzipBytes": 16891,
+      "sha256": "5d9817f6c79db140c21f20701b0892070cadeca061e8fc1d934fb4d774ee17b5"
+    },
+    {
+      "cells": 1024,
+      "features": 2586,
+      "bytes": 450570,
+      "gzipBytes": 53443,
+      "sha256": "489035bc39c725d6d953e468a3de5af701a6b744bf0d3932b8fb94ecadbba8c8"
+    },
+    {
+      "cells": 2048,
+      "features": 9595,
+      "bytes": 1631782,
+      "gzipBytes": 168984,
+      "sha256": "607c8680243a0e08320348230b4d15f3dcd5669b21a6e60c905c1c380a0010fc"
+    },
+    {
+      "cells": 4096,
+      "features": 35183,
+      "bytes": 5714932,
+      "gzipBytes": 522405,
+      "sha256": "34ea166d9d34660f67c96dcbce7ceac3376a69e69da546feb7d6b70392fe061c"
+    }
+  ],
+  "credits": [
+    "PMGSY rural facilities, Ministry of Rural Development (GODL-India) via DataMeet mirror",
+    "GeoMGNREGA works, Bhuvan/NRSC (GODL-India)"
+  ]
+}
